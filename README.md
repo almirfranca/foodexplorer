@@ -32,3 +32,7 @@ Este repositório contém o código-fonte do projeto front-end desenvolvido como
 
 - para iniciar localmente va pasta /src/service/api.js e mude a baseURL para a local.(caso queira testar localmente)
 - npm run dev
+
+# LINK DO DEPLOY
+
+https://challengefoodexplorer.netlify.app
