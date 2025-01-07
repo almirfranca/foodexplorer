@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const Container = styled.span`
   display: flex;
-  /* justify-content: space-between; */
   align-items: center;
   width: 140px;
 
@@ -20,7 +19,6 @@ export const Container = styled.span`
     background: none;
     display: flex;
     align-items: center;
-    /* margin-right: 5px; */
 
     color: ${({ theme, isNew }) =>
       isNew ? theme.COLORS.LIGHT_500 : theme.COLORS.LIGHT_100};

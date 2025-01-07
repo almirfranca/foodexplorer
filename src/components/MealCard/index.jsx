@@ -50,7 +50,6 @@ export function MealCard({ data, ...rest }) {
       <div>
         {isAdmin ? (
           <button onClick={() => navigate(`/new-meal/${data.id}`)}>
-            {/* <CiHeart size={20} /> */}
             <MdEdit size={20} />
           </button>
         ) : (

@@ -30,7 +30,7 @@ Este repositório contém o código-fonte do projeto front-end desenvolvido como
 
 # Execute a aplicação localmente:
 
-- para iniciar localmente va pasta /src/service/api.js e mude a baseURL para a local.(caso queira testar localmente)
+- para iniciar localmente na pasta /src/service/api.js e mude a baseURL para a local.(caso queira testar localmente)
 - npm run dev
 
 # LINK DO DEPLOY
